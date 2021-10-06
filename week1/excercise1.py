@@ -1,5 +1,9 @@
-#task1
-print("*********\n*\t\t*\n*\t\t*\n*\t\t*\n*********")
+#1
+print("Hello world")
 
-#task2
-print("\t\t\t\t*\n\t\t\t*\t\t*\n\t\t*\t\t\t\t*\n\t*\t\t\t\t\t\t*\n*******************************")
+#2
+print("Question. What do you call it when you have your mom’s mom on social media?")
+print("Answer. Instagram")
+
+#3
+print("\U0001f600")
